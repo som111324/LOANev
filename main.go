@@ -10,7 +10,7 @@ import (
 	"github.com/labstack/echo/v4"
 )
 
-const apiKey = "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" // Replace with your Groq API key
+const apiKey = "" // Replace with your Groq API key
 
 type EVLoanRiskRequest struct {
 	Income            int     `json:"income"`
